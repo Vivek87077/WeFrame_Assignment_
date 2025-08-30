@@ -3,21 +3,22 @@
 A minimal scaffold for the **WeframeTech Dashboard Assignment**, designed to help you quickly set up, customize, and build a pixel-perfect UI.  
 This project provides the base layout and structure, with flexibility to integrate `shadcn/ui` primitives and additional components as per requirements.  
 
----
 
 ## 📂 Project Structure
+```bash
 WeFrame_Assignment/
 ├── app/ # Next.js App Router pages
 ├── components/ # Reusable UI components
 ├── public/ # Static assets
 ├── styles/ # Global styles
 └── vite.config.js # Vite configuration
+```
 
 ---
 
 ## ⚡ Getting Started  
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/WeFrame_Assignment.git
 cd WeFrame_Assignment
@@ -33,6 +34,7 @@ npm install
 npm run dev
 Your app will be live at http://localhost:5173/ 🎉
 ```
+---
 
 ## 🛠️ Setup & Integration
 This scaffold comes with the basic layout. To add the full set of shadcn/ui components:
@@ -53,10 +55,11 @@ Use shadcn/ui primitives for consistency in styling and accessibility.
 Add your own polish: animations, hover effects, or custom components.
 
 📸 Screenshots (Optional)
-![Dashboard Preview](./ss1.png).
+![Dashboard Preview](./ss1.png)
 
-📜 License
-This project is for assignment/demo purposes only and not for commercial use.
+---
+👉 This README is styled with **clear sections, emojis for readability, code blocks, and professional flow**.  
 
-💡 Tip: Commit regularly, document changes, and follow best practices to stand out! 🚀
+Do you want me to also add a **“Tech Stack” section** (React, Vite, Tailwind, Shadcn/UI) so it looks even more complete for GitHub?
+
 
